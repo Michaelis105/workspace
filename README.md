@@ -1,11 +1,11 @@
 # workspace
 My Workspace Environment
 
-Dbeaver
-Git
-Chrome, firefox
-IntelliJ
-Visual studios
-Postman
-Python?
-Sublime
+1. Dbeaver
+2. Git
+3. Chrome/Firefox
+4. IntelliJ
+5. Visual Studios
+6. Postman
+7. Python?
+8. Sublime
